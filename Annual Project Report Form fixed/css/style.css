@@ -1,0 +1,30 @@
+h1 {
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    white-space: nowrap;
+}
+
+p, li {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.form {
+    margin: auto;
+    word-wrap: break-word;
+    width: 900px;
+}
